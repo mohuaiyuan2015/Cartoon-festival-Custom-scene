@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">订制场景</string>
+    <string name="device_ble_not_supported">device ble not supported</string>
+
+    <string-array name="orders">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+
+    </string-array>
+
+    <string-array name="questionArray">
+        <item>0.</item>
+        <item>1. </item>
+
+        <!--2--><item>跳舞--我是机器人</item>
+        <item>跳舞--小苹果</item>
+        <item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+
+        <!--6--><item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+
+        <!--10--><item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+
+        <!--14--><item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+
+        <!--18--><item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+
+        <!--22--><item>【机器人动作】</item>
+        <item>【机器人动作】</item>
+        <item>你今天开心吗？</item>
+        <item>介绍一下动漫节</item>
+
+        <!--26--><item>你的偶像是谁？</item>
+        <item>自我介绍一下</item>
+
+        <item>你会做什么？</item>
+        <item>你有卖吗？</item>
+        <item>你可以定制吗？</item>
+        <item>哪里需要你？</item>
+
+
+        <item>100.</item>
+
+    </string-array>
+    <string-array name="answerArray">
+        <item> 关闭机器人聊天 </item>
+        <item>休眠机器人</item>
+
+        <!--2--><item>我是机器人</item>
+        <item>小苹果</item>
+        <item>向前走</item>
+        <item>原地坐下</item>
+
+        <!--6--><item>原地从坐着到站起</item>
+        <item>伸懒腰</item>
+        <item>打招呼</item>
+        <item>抬头低头</item>
+
+        <!--10--><item>扭头</item>
+        <item>叉腰</item>
+        <item>抱抱</item>
+        <item>摇头</item>
+
+        <!--14--><item>握手</item>
+        <item>芭蕾舞</item>
+        <item>做俯卧撑</item>
+        <item>一字马</item>
+
+        <!--18--><item>打篮球</item>
+        <item>原地站立</item>
+        <item>原地踏步走</item>
+        <item>前压腿</item>
+
+        <!--22--><item>原地躺下</item>
+        <item>原地从躺下到站起</item>
+        <item>又开心又不开心。动漫节真好玩，可是小图错过了前面九届，可惜得不要不要的。</item>
+        <item>今年的厦门国际动漫节十周年啦，有金海豚作品大赛、Cosplay盛典、动漫游戏与技术展示会，还有国际动漫商务大会、电竞游戏比赛，太嗨了。</item>
+
+        <!--26--><item>我的偶像是：《犬夜叉》女主角，日暮戈薇的配音演员：雪野五月，听说她也会来动漫节哦，有点激动呢。</item>
+        <item>大家好，我是图巴机器人，量产化人形机器人“全球第二”，我可以像人一样行走、交流。要不给你秀下我的肌肉吧。</item>
+
+        <item>人类会的唱歌跳舞、聊天、讲故事、国学百科，我都会。我还拥有人类无穷无尽的智慧，无所不知、无所不能。</item>
+        <item>额，这个问题问我旁边的美女吧。不过我现在有接受“整机IP形象加软件内容”的定制。</item>
+        <item>可以的，我可是吸引人气的法宝。可以做主持人、表演者、解说员、导购员，还可以做教学辅助、自闭症辅助治疗，让人类生活学习更便捷。</item>
+        <item>活动、展会、购物中心、培训机构、展览馆、自闭症康复中心、养老院，还有很多场合都需要我哦。</item>
+
+        <!--100--><item> 开放机器人聊天 </item>
+
+    </string-array>
+
+    <string-array name="actionCodeArray">
+        <item></item><!--0-->
+        <item></item><!--1-->
+
+        <item>124</item><!--2-->
+        <item>123</item>
+        <item>3</item>
+        <item>8</item>
+
+        <item>9</item><!--6-->
+        <item>14</item>
+        <item>17</item>
+        <item>19</item>
+
+        <item>20</item><!--10-->
+        <item>26</item>
+        <item>42</item>
+        <item>51</item>
+
+        <item>81</item><!--14-->
+        <item>118</item>
+        <item>58</item>
+        <item>28</item>
+
+        <item>121</item><!--18-->
+        <item>1</item>
+        <item>2</item>
+        <item>31</item>
+
+        <item>10</item><!--22-->
+        <item>11</item>
+        <item>44#,#42</item>
+        <item>97#,#98#,#14</item>
+
+        <item>66#,#50</item><!--26-->
+        <item>17#,#97#,#2#,#58--</item>
+
+        <item>97#,#98#,#99#,#50</item>
+        <item>80#,#97#,#42</item>
+        <item>26#,#97#,#98#,#101</item>
+        <item>97#,#98#,#99</item>
+
+
+        <item></item><!--100  开放机器人聊天-->
+
+    </string-array>
+
+    <string-array name="kind">
+        <item>Function</item><!--0-->
+        <item>Function</item><!--1-->
+
+        <item>Dance</item><!--2-->
+        <item>Dance</item>
+        <item>Action</item>
+        <item>Action</item>
+
+        <item>Action</item><!--6-->
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+
+        <item>Action</item><!--10-->
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+
+        <item>Action</item><!--14-->
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+
+        <item>Action</item><!--18-->
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+
+        <item>Action</item><!--22-->
+        <item>Action</item>
+        <item>Action#Speech</item>
+        <item>Action#Speech</item>
+
+        <item>Action#Speech</item><!--26-->
+        <item>Action#Speech</item>
+
+        <item>Action#Speech</item>
+        <item>Action#Speech</item>
+        <item>Action#Speech</item>
+        <item>Action#Speech</item>
+
+
+        <item>Function</item><!--100  开放机器人聊天-->
+
+    </string-array>
+
+    <string name="title_activity_index">IndexActivity</string>
+
+    <string name="connectReminder">Please select a device first!</string>
+
+</resources>
